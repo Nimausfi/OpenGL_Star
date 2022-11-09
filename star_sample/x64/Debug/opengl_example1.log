@@ -1,0 +1,11 @@
+﻿  EBO.cpp
+  Main.cpp
+  shaderClass.cpp
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+C:\Users\Nima\Desktop\Desktop_files\GitHub\OpenGL_Star\star_sample\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  Generating Code...
+  glad.c
+  opengl_example1.vcxproj -> C:\Users\Nima\Desktop\Desktop_files\GitHub\OpenGL_Star\star_sample\x64\Debug\opengl_example1.exe

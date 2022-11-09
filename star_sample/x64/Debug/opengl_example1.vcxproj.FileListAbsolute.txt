@@ -1,0 +1,2 @@
+E:\sample_codes\opengl_example1\x64\Debug\opengl_example1.exe
+C:\Users\Nima\Desktop\Desktop_files\GitHub\OpenGL_Star\star_sample\x64\Debug\opengl_example1.exe
