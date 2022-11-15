@@ -2,7 +2,13 @@
 
 Language: C++ (OpenGL: GLAD, GLFW, GLM)
 
-The star has been created by institating the Window, Vertex input/coordinates, Vertex shader, and Fragment shader. Further details were added using the Texture combined with colors, and GLM library to import matrices for 3D space.
+Use Context:
++ Window
++ Vertex input/coordinates
++ Vertex shader
++ Fragment shader
++ Texture
++ Camera
 
 <br>
 <p align="center">  
