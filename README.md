@@ -1,6 +1,12 @@
 # OpenGL Star
 
-Language: C++ (OpenGL: GLAD, GLFW, GLM)
+<pre>
+Language:                     C++
+OpenGL Function Loader:       glad
+Windowing and Input:          glfw
+OpenGL Mathematics:           glm
+Texture Loading:              stb
+</pre>
 
 Use Context:
 + Window
