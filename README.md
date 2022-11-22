@@ -24,4 +24,4 @@ Use Context:
 
 Reference:
 --
-https://github.com/VictorGordan/opengl-tutorials
+Developed from: https://github.com/VictorGordan/opengl-tutorials
